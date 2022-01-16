@@ -1,0 +1,29 @@
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\appsettings.json
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\API Development.exe
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\API Development.deps.json
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\API Development.runtimeconfig.json
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\API Development.runtimeconfig.dev.json
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\API Development.dll
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\ref\API Development.dll
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\API Development.pdb
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Family\source\repos\API Development\API Development\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.AssemblyInfo.cs
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\staticwebassets\API Development.StaticWebAssets.Manifest.cache
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\staticwebassets\API Development.StaticWebAssets.xml
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\scopedcss\bundle\API Development.styles.css
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.RazorTargetAssemblyInfo.cache
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.csproj.CopyComplete
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.dll
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\ref\API Development.dll
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.pdb
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.genruntimeconfig.cache
+C:\Users\Family\source\repos\API Development\API Development\obj\Debug\net5.0\API Development.csproj.AssemblyReference.cache
